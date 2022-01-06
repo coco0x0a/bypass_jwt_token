@@ -9,4 +9,4 @@ pip uninstall PyJWT
 
 pip install PyJWT
 
-python3 exploit.jwt
+python3 jwt*.py
